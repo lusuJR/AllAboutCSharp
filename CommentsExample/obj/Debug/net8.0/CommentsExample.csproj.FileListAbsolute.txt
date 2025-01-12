@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\bin\Debug\net8.0\CommentsExample.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\bin\Debug\net8.0\CommentsExample.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\bin\Debug\net8.0\CommentsExample.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\bin\Debug\net8.0\CommentsExample.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\bin\Debug\net8.0\CommentsExample.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\CommentsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\CommentsExample.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\CommentsExample.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\CommentsExample.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\CommentsExample.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\CommentsExample.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\refint\CommentsExample.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\CommentsExample.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\CommentsExample.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\CommentsExample\obj\Debug\net8.0\ref\CommentsExample.dll
