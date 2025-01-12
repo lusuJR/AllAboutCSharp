@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\bin\Debug\net8.0\FormattingExample.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\bin\Debug\net8.0\FormattingExample.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\bin\Debug\net8.0\FormattingExample.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\bin\Debug\net8.0\FormattingExample.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\bin\Debug\net8.0\FormattingExample.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\FormattingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\FormattingExample.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\FormattingExample.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\FormattingExample.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\FormattingExample.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\FormattingExample.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\refint\FormattingExample.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\FormattingExample.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\FormattingExample.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\FormattingExample\obj\Debug\net8.0\ref\FormattingExample.dll
