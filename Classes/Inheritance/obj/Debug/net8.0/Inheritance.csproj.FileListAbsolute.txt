@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

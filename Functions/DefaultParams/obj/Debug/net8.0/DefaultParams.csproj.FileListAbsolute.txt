@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\refint\DefaultParams.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\DefaultParams\obj\Debug\net8.0\ref\DefaultParams.dll

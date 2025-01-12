@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\bin\Debug\net8.0\Defining.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\bin\Debug\net8.0\Defining.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\bin\Debug\net8.0\Defining.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\bin\Debug\net8.0\Defining.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\bin\Debug\net8.0\Defining.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\Defining.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\Defining.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\Defining.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\Defining.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\Defining.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\refint\Defining.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\Defining.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\Defining.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Defining\obj\Debug\net8.0\ref\Defining.dll

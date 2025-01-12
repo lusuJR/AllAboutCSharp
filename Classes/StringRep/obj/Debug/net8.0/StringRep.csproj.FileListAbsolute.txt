@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\bin\Debug\net8.0\StringRep.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\bin\Debug\net8.0\StringRep.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\bin\Debug\net8.0\StringRep.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\bin\Debug\net8.0\StringRep.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\bin\Debug\net8.0\StringRep.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\StringRep.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\StringRep.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\StringRep.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\StringRep.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\refint\StringRep.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\StringRep.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\StringRep.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\StringRep\obj\Debug\net8.0\ref\StringRep.dll

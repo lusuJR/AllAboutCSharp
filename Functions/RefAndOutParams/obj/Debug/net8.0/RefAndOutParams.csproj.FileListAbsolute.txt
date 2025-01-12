@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\bin\Debug\net8.0\RefAndOutParams.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\refint\RefAndOutParams.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\RefAndOutParams.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\RefAndOutParams\obj\Debug\net8.0\ref\RefAndOutParams.dll

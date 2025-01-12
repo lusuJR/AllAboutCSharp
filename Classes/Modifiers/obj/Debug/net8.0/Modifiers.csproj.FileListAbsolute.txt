@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\bin\Debug\net8.0\Modifiers.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\bin\Debug\net8.0\Modifiers.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\bin\Debug\net8.0\Modifiers.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\bin\Debug\net8.0\Modifiers.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\bin\Debug\net8.0\Modifiers.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\Modifiers.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\Modifiers.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\Modifiers.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\Modifiers.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\Modifiers.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\refint\Modifiers.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\Modifiers.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\Modifiers.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Modifiers\obj\Debug\net8.0\ref\Modifiers.dll

@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\bin\Debug\net8.0\Properties.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\bin\Debug\net8.0\Properties.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\bin\Debug\net8.0\Properties.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\bin\Debug\net8.0\Properties.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\Properties.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\Properties.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\refint\Properties.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\Properties.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Classes\Properties\obj\Debug\net8.0\ref\Properties.dll

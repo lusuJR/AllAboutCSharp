@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\bin\Debug\net8.0\Basics.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\bin\Debug\net8.0\Basics.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\bin\Debug\net8.0\Basics.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\bin\Debug\net8.0\Basics.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\bin\Debug\net8.0\Basics.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\Basics.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\Basics.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\Basics.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\Basics.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\Basics.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\refint\Basics.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\Basics.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\Basics.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\Functions\Basics\obj\Debug\net8.0\ref\Basics.dll
