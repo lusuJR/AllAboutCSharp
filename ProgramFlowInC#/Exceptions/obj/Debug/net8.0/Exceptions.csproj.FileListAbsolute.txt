@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\bin\Debug\net8.0\Exceptions.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\bin\Debug\net8.0\Exceptions.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\bin\Debug\net8.0\Exceptions.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\Exceptions.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\Exceptions.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll

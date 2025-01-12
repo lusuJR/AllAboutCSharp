@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\bin\Debug\net8.0\ForLoops.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\bin\Debug\net8.0\ForLoops.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\bin\Debug\net8.0\ForLoops.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\bin\Debug\net8.0\ForLoops.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\bin\Debug\net8.0\ForLoops.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\ForLoops.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\ForLoops.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\refint\ForLoops.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\ForLoops.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\ForLoops.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\ForLoops\obj\Debug\net8.0\ref\ForLoops.dll

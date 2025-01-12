@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\bin\Debug\net8.0\Conditional-Switch.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\bin\Debug\net8.0\Conditional-Switch.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\bin\Debug\net8.0\Conditional-Switch.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\bin\Debug\net8.0\Conditional-Switch.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\bin\Debug\net8.0\Conditional-Switch.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\Conditional-Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\Conditional-Switch.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\Conditional-Switch.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\Conditional-Switch.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\Conditional-Switch.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\Conditional-Switch.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\refint\Conditional-Switch.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\Conditional-Switch.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\Conditional-Switch.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\ProgramFlowInC#\Conditional-Switch\obj\Debug\net8.0\ref\Conditional-Switch.dll
