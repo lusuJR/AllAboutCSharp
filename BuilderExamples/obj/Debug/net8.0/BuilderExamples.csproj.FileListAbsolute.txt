@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\bin\Debug\net8.0\BuilderExamples.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\bin\Debug\net8.0\BuilderExamples.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\bin\Debug\net8.0\BuilderExamples.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\bin\Debug\net8.0\BuilderExamples.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\bin\Debug\net8.0\BuilderExamples.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\BuilderExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\BuilderExamples.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\BuilderExamples.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\BuilderExamples.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\BuilderExamples.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\BuilderExamples.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\refint\BuilderExamples.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\BuilderExamples.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\BuilderExamples.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\BuilderExamples\obj\Debug\net8.0\ref\BuilderExamples.dll
