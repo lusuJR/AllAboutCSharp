@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\bin\Debug\net8.0\VariablesExample.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\bin\Debug\net8.0\VariablesExample.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\bin\Debug\net8.0\VariablesExample.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\bin\Debug\net8.0\VariablesExample.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\bin\Debug\net8.0\VariablesExample.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\VariablesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\VariablesExample.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\VariablesExample.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\VariablesExample.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\VariablesExample.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\VariablesExample.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\refint\VariablesExample.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\VariablesExample.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\VariablesExample.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\VariablesExample\obj\Debug\net8.0\ref\VariablesExample.dll
