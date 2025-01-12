@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\refint\StringInterpolation.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\StringInterpolation\obj\Debug\net8.0\ref\StringInterpolation.dll
