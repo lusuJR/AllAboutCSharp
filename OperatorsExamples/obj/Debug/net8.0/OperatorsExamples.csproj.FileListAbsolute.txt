@@ -1,0 +1,15 @@
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\bin\Debug\net8.0\OperatorsExamples.exe
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\bin\Debug\net8.0\OperatorsExamples.deps.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\bin\Debug\net8.0\OperatorsExamples.runtimeconfig.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\bin\Debug\net8.0\OperatorsExamples.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\bin\Debug\net8.0\OperatorsExamples.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\OperatorsExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\OperatorsExamples.AssemblyInfoInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\OperatorsExamples.AssemblyInfo.cs
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\OperatorsExamples.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\OperatorsExamples.sourcelink.json
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\OperatorsExamples.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\refint\OperatorsExamples.dll
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\OperatorsExamples.pdb
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\OperatorsExamples.genruntimeconfig.cache
+C:\Projects\Learn-CSharp-2023\AllAboutCSharp\OperatorsExamples\obj\Debug\net8.0\ref\OperatorsExamples.dll
